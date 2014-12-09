@@ -1,0 +1,12 @@
+﻿Сборка начата 21.11.2014 12:50:42.
+     1>Проект "D:\ALIZE\ALIZE\LIA_RAL2\trunk\wincfg\Hist_2010.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ALIZE\ALIZE\LIA_RAL2\trunk\/bin/Win32/Hist.exe" /NOLOGO /LIBPATH:D:\ALIZE\ALIZE\LIA_RAL2\trunk\/../ALIZE/lib/Debug /LIBPATH:D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug /LIBPATH:D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib liatools_Win32_Debug.lib ALIZE_Win32_Debug.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ALIZE\ALIZE\LIA_RAL2\trunk\/bin/Win32/Hist.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ALIZE\ALIZE\LIA_RAL2\trunk\/bin/Win32/Hist.lib" /MACHINE:X86 /SAFESEH D:\ALIZE\ALIZE\LIA_RAL2\trunk\/bin/Win32/tmp/Hist.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/bin/Win32/tmp/HistMain.obj
+     1>Hist.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+         Hist_2010.vcxproj -> D:\ALIZE\ALIZE\LIA_RAL2\trunk\/bin/Win32/Hist.exe
+     1>Построение проекта "D:\ALIZE\ALIZE\LIA_RAL2\trunk\wincfg\Hist_2010.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.84

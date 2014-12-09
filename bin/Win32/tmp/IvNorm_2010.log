@@ -1,0 +1,14 @@
+﻿Сборка начата 20.11.2014 16:37:51.
+     1>Проект "D:\ALIZE\ALIZE\LIA_RAL2\trunk\wincfg\IvNorm_2010.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\ALIZE\ALIZE\LIA_RAL2\trunk\/../ALIZE/include /ID:\ALIZE\ALIZE\LIA_RAL2\trunk\/LIA_SpkTools/include /ID:\ALIZE\ALIZE\LIA_RAL2\trunk\/LIA_SpkDet/IvNorm/include /ID:\ALIZE\ALIZE\LIA_RAL2\trunk\/include/Eigen /ID:\ALIZE\ALIZE\LIA_RAL2\trunk\/include/Eigen/src/Eigenvalues /ID:\ALIZE\ALIZE\LIA_RAL2\trunk\/include/Eigen/src/Cholesky /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\ALIZE\ALIZE\LIA_RAL2\trunk\/bin/Win32/tmp/" /Fd"D:\ALIZE\ALIZE\LIA_RAL2\trunk\/bin/Win32/tmp/vc110.pdb" /Gd /TP /wd4251 /analyze- /errorReport:prompt ..\LIA_SpkDet\IvNorm\src\IvNorm.cpp ..\LIA_SpkDet\IvNorm\src\IvNormMain.cpp
+         IvNormMain.cpp
+     1>d:\alize\alize\lia_ral2\trunk\lia_spkdet\ivnorm\src\ivnormmain.cpp(56): fatal error C1083: Не удается открыть файл включение: alize.h: No such file or directory
+         IvNorm.cpp
+     1>d:\alize\alize\lia_ral2\trunk\lia_spktools\include\generaltools.h(68): fatal error C1083: Не удается открыть файл включение: alize.h: No such file or directory
+         Создание кода...
+     1>Построение проекта "D:\ALIZE\ALIZE\LIA_RAL2\trunk\wincfg\IvNorm_2010.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+СБОЙ сборки.
+
+Затраченное время: 00:00:05.03

@@ -1,0 +1,181 @@
+﻿Сборка начата 21.11.2014 12:49:54.
+     1>Проект "D:\ALIZE\ALIZE\trunk\wincfg\ALIZE_2010.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(346,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\ALIZE\ALIZE\LIA_RAL2\trunk\/include/ /ZI /nologo /W3 /WX- /Od /Oy- /D ALIZE_EXPORTS /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/" /Fd"D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/vc110.pdb" /Gd /TP /wd4251 /analyze- /errorReport:prompt ..\src\alizeString.cpp ..\src\AudioFileReader.cpp ..\src\AudioFrame.cpp ..\src\AudioInputStream.cpp ..\src\AutoDestructor.cpp ..\src\BoolMatrix.cpp ..\src\CmdLine.cpp ..\src\Config.cpp ..\src\ConfigChecker.cpp ..\src\ConfigFileReaderAbstract.cpp ..\src\ConfigFileReaderRaw.cpp ..\src\ConfigFileReaderXml.cpp ..\src\ConfigFileWriter.cpp ..\src\Distrib.cpp ..\src\DistribGD.cpp ..\src\DistribGF.cpp ..\src\DistribRefVector.cpp ..\src\DoubleSquareMatrix.cpp ..\src\Exception.cpp ..\src\Feature.cpp ..\src\FeatureFileList.cpp ..\src\FeatureFileReader.cpp ..\src\FeatureFileReaderAbstract.cpp ..\src\FeatureFileReaderHTK.cpp ..\src\FeatureFileReaderRaw.cpp ..\src\FeatureFileReaderSingle.cpp ..\src\FeatureFileReaderSPro3.cpp ..\src\FeatureFileReaderSPro4.cpp ..\src\FeatureFileWriter.cpp ..\src\FeatureFlags.cpp ..\src\FeatureInputStream.cpp ..\src\FeatureInputStreamModifier.cpp ..\src\FeatureMultipleFileReader.cpp ..\src\FeatureServer.cpp ..\src\FileReader.cpp ..\src\FileWriter.cpp ..\src\FrameAcc.cpp ..\src\FrameAccGD.cpp ..\src\FrameAccGF.cpp ..\src\Histo.cpp ..\src\Label.cpp ..\src\LabelFileReader.cpp ..\src\LabelServer.cpp ..\src\LabelSet.cpp ..\src\LKVector.cpp ..\src\Matrix.cpp ..\src\Mixture.cpp ..\src\MixtureDict.cpp ..\src\MixtureFileReader.cpp ..\src\MixtureFileReaderAbstract.cpp ..\src\MixtureFileReaderAmiral.cpp ..\src\MixtureFileReaderRaw.cpp ..\src\MixtureFileReaderXml.cpp ..\src\MixtureFileWriter.cpp ..\src\MixtureGD.cpp ..\src\MixtureGDStat.cpp ..\src\MixtureGF.cpp ..\src\MixtureGFStat.cpp ..\src\MixtureServer.cpp ..\src\MixtureServerFileReader.cpp ..\src\MixtureServerFileReaderAbstract.cpp ..\src\MixtureServerFileReaderRaw.cpp ..\src\MixtureServerFileReaderXml.cpp ..\src\MixtureServerFileWriter.cpp ..\src\MixtureStat.cpp ..\src\Object.cpp ..\src\Seg.cpp ..\src\SegAbstract.cpp ..\src\SegCluster.cpp ..\src\SegServer.cpp ..\src\SegServerFileReaderAbstract.cpp ..\src\SegServerFileReaderRaw.cpp ..\src\SegServerFileWriter.cpp ..\src\StatServer.cpp ..\src\ULongVector.cpp ..\src\ViterbiAccum.cpp ..\src\XLine.cpp ..\src\XList.cpp ..\src\XListFileReader.cpp ..\src\XmlParser.cpp
+         XmlParser.cpp
+         XListFileReader.cpp
+         XList.cpp
+         XLine.cpp
+         ViterbiAccum.cpp
+         ULongVector.cpp
+         StatServer.cpp
+         SegServerFileWriter.cpp
+         SegServerFileReaderRaw.cpp
+         SegServerFileReaderAbstract.cpp
+         SegServer.cpp
+         SegCluster.cpp
+         SegAbstract.cpp
+         Seg.cpp
+         Object.cpp
+         MixtureStat.cpp
+         MixtureServerFileWriter.cpp
+         MixtureServerFileReaderXml.cpp
+         MixtureServerFileReaderRaw.cpp
+         MixtureServerFileReaderAbstract.cpp
+         Создание кода...
+         Компиляция...
+         MixtureServerFileReader.cpp
+         MixtureServer.cpp
+         MixtureGFStat.cpp
+         MixtureGF.cpp
+         MixtureGDStat.cpp
+         MixtureGD.cpp
+         MixtureFileWriter.cpp
+         MixtureFileReaderXml.cpp
+         MixtureFileReaderRaw.cpp
+         MixtureFileReaderAmiral.cpp
+         MixtureFileReaderAbstract.cpp
+         MixtureFileReader.cpp
+         MixtureDict.cpp
+         Mixture.cpp
+         Matrix.cpp
+         LKVector.cpp
+         LabelSet.cpp
+         LabelServer.cpp
+         LabelFileReader.cpp
+         Label.cpp
+         Создание кода...
+         Компиляция...
+         Histo.cpp
+         FrameAccGF.cpp
+         FrameAccGD.cpp
+         FrameAcc.cpp
+         FileWriter.cpp
+         FileReader.cpp
+         FeatureServer.cpp
+         FeatureMultipleFileReader.cpp
+         FeatureInputStreamModifier.cpp
+         FeatureInputStream.cpp
+         FeatureFlags.cpp
+         FeatureFileWriter.cpp
+         FeatureFileReaderSPro4.cpp
+         FeatureFileReaderSPro3.cpp
+         FeatureFileReaderSingle.cpp
+         FeatureFileReaderRaw.cpp
+         FeatureFileReaderHTK.cpp
+         FeatureFileReaderAbstract.cpp
+         FeatureFileReader.cpp
+         FeatureFileList.cpp
+         Создание кода...
+         Компиляция...
+         Feature.cpp
+         Exception.cpp
+         DoubleSquareMatrix.cpp
+         DistribRefVector.cpp
+         DistribGF.cpp
+         DistribGD.cpp
+         Distrib.cpp
+         ConfigFileWriter.cpp
+         ConfigFileReaderXml.cpp
+         ConfigFileReaderRaw.cpp
+         ConfigFileReaderAbstract.cpp
+         ConfigChecker.cpp
+         Config.cpp
+         CmdLine.cpp
+         BoolMatrix.cpp
+         AutoDestructor.cpp
+         AudioInputStream.cpp
+         AudioFrame.cpp
+         AudioFileReader.cpp
+         alizeString.cpp
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug\ALIZE_Win32_Debug.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug\ALIZE_Win32_Debug.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug\ALIZE_Win32_Debug.lib" /MACHINE:X86 /SAFESEH /DLL D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/alizeString.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/AudioFileReader.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/AudioFrame.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/AudioInputStream.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/AutoDestructor.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/BoolMatrix.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/CmdLine.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/Config.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/ConfigChecker.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/ConfigFileReaderAbstract.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/ConfigFileReaderRaw.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/ConfigFileReaderXml.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/ConfigFileWriter.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/Distrib.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/DistribGD.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/DistribGF.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/DistribRefVector.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/DoubleSquareMatrix.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/Exception.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/Feature.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureFileList.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureFileReader.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureFileReaderAbstract.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureFileReaderHTK.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureFileReaderRaw.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureFileReaderSingle.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureFileReaderSPro3.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureFileReaderSPro4.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureFileWriter.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureFlags.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureInputStream.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureInputStreamModifier.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureMultipleFileReader.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FeatureServer.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FileReader.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FileWriter.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FrameAcc.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FrameAccGD.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/FrameAccGF.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/Histo.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/Label.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/LabelFileReader.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/LabelServer.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/LabelSet.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/LKVector.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/Matrix.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/Mixture.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureDict.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureFileReader.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureFileReaderAbstract.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureFileReaderAmiral.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureFileReaderRaw.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureFileReaderXml.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureFileWriter.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureGD.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureGDStat.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureGF.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureGFStat.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureServer.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureServerFileReader.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureServerFileReaderAbstract.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureServerFileReaderRaw.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureServerFileReaderXml.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureServerFileWriter.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/MixtureStat.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/Object.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/Seg.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/SegAbstract.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/SegCluster.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/SegServer.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/SegServerFileReaderAbstract.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/SegServerFileReaderRaw.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/SegServerFileWriter.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/StatServer.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/ULongVector.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/ViterbiAccum.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/XLine.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/XList.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/XListFileReader.obj
+         D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug/tmp/XmlParser.obj
+     1>alizeString.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+            Создается библиотека D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug\ALIZE_Win32_Debug.lib и объект D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug\ALIZE_Win32_Debug.exp
+         ALIZE_2010.vcxproj -> D:\ALIZE\ALIZE\LIA_RAL2\trunk\/lib/Debug\ALIZE_Win32_Debug.dll
+     1>Построение проекта "D:\ALIZE\ALIZE\trunk\wincfg\ALIZE_2010.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:02:05.64
