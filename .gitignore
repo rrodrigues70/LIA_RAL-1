@@ -2,6 +2,10 @@
 Thumbs.db
 ehthumbs.db
 
+LIA_RAL.opensdf
+LIA_RAL.sdf
+LIA_RAL.v11.suo
+
 # Folder config file
 Desktop.ini
 
@@ -26,8 +30,7 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
-
+Icon 
 # Thumbnails
 ._*
 
